@@ -1,0 +1,19 @@
+html,body{
+    height: 100%;
+    background-color: rgba(0,0,0,0.6);
+}
+
+
+.form {
+    margin-top: 150px;
+    padding:0;
+
+}
+.form .panel{
+    border: 0;
+}
+.form .panel-heading {
+    color: #fff;
+    background-color: #337ab7;
+    text-align: center;
+}
